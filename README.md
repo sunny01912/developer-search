@@ -28,5 +28,6 @@ A social site to meet other developer and see their projects and do much more
 * User Registration & Authenticaiton 
 * Search
 * Pagination
-* Building an API with Django REST Framework (DRF)
+* Building an API with Django REST Framework (DRF) 
+* protected API endpoint with simpleiJWT Authentication
 * Deployment
