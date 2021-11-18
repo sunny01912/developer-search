@@ -3,7 +3,7 @@ A social site to meet other developer and see their projects and do much more
 
 
 # Installation
-* 1 - https://github.com/sunny01912/developer-search.git
+* 1 -  clone repo  https://github.com/sunny01912/developer-search.git
 * 2 - create a virtual environment and activate
 *   - pip install virtualenv
 *   - virtualenv envname
