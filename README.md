@@ -22,7 +22,7 @@ A social site to meet other developer and see their projects and do much more
 
 
 
-# Course Overview
+# Implemented django Concept
 * Database Design and Models
 * Managing  Static and media  Files
 * User Registration & Authenticaiton 
