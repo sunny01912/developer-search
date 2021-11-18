@@ -29,5 +29,5 @@ A social site to meet other developer and see their projects and do much more
 * Search
 * Pagination
 * Building an API with Django REST Framework (DRF) 
-* protected API endpoint with simpleiJWT Authentication
+* protected API endpoint with simple-JWT Authentication
 * Deployed on Heroku (http://developersmeet.herokuapp.com/) 
