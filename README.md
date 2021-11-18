@@ -30,4 +30,4 @@ A social site to meet other developer and see their projects and do much more
 * Pagination
 * Building an API with Django REST Framework (DRF) 
 * protected API endpoint with simpleiJWT Authentication
-* Deployment
+* Deployed on Heroku (http://developersmeet.herokuapp.com/) 
